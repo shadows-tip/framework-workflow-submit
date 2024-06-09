@@ -31,7 +31,7 @@ python MachineLearning.py
 python Plot.py
 ```
 ### Quick Start
-We recommend using the pychar compiler to edit our files. We have packaged the propagation dynamics into a package so that users can quickly use the model to simulate and predict diseases according to their intervention needs. The following provides an example of how to use it, and the example code is in the test.py file.
+We recommend using the pycharm compiler to edit our files. We have packaged the propagation dynamics into a package so that users can quickly use the model to simulate and predict diseases according to their intervention needs. The following provides an example of how to use it, and the example code is in the test.py file.
 ```python
 from ModelPackage import Model
 
